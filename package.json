@@ -42,7 +42,7 @@
 , "main": "./lib"
 , "dependencies":
   {
-    "coffee-script": "*",
+    "coffee-script": "~1.12.7",
     "node-gyp": ">=0.5.7"
   }
 , "devDependencies":
