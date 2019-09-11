@@ -43,7 +43,7 @@
 , "dependencies":
   {
     "coffee-script": "~1.12.7",
-    "node-gyp": ">=0.5.7"
+    "node-gyp": "~3.8.0"
   }
 , "devDependencies":
   {
